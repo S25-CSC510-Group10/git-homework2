@@ -4,16 +4,16 @@ This repository is a requirement to complete CSC 510 Homework 2 in the Spring 25
 ![Static Badge](https://img.shields.io/badge/Language-Python-Green)
 ![Static Badge](https://img.shields.io/badge/Licencse-Apache2.0-blue)
 ![Static Badge](https://img.shields.io/badge/Platform-Linux-red)
-![Static Badge](https://img.sheilds.io/badge/coveralls/github/badges/shields)
+![Static Badge](https://img.sheilds.io/badge/Language-HTML-Orange)
 
 ![Project Screenshot](https://github.com/S25-CSC510-Group10/Repository2/screenshot.png)
 
 
 # Code Example
 
+```sh
 # Stage all changes for commit
 
-'''sh
 git add .
 
 
@@ -23,11 +23,10 @@ git commit -m "Add changes"
 
 # Push to the remote repository
 git push origin YOUR_BRANCH
-'''
+```
 
 # Task List
 
-##Example
 - [X] Task 1: Complete the Git Tutorial
 - [ ] Task 2: Add Screenshots to 'README.md'
 - [ ] Task 3: Modify '.html' File
