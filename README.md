@@ -6,8 +6,9 @@ This repository is a requirement to complete CSC 510 Homework 2 in the Spring 25
 ![Static Badge](https://img.shields.io/badge/Platform-Linux-red)
 ![Static Badge](https://img.shields.io/badge/Language-HTML-orange)
 
-![Project Screenshot](https://github.com/S25-CSC510-Group10/Repository2/screenshot.png)
-
+# Image
+![lasteph2_hw2_gittutorial_1](https://github.com/user-attachments/assets/e67522aa-932f-445e-b27f-71d9b3821057)
+![lasteph2_hw2_gittutorial_2](https://github.com/user-attachments/assets/179ca24e-a16e-45c0-a582-e66717825bef)
 
 # Code Example
 
@@ -28,7 +29,7 @@ git push origin YOUR_BRANCH
 # Task List
 
 - [X] Task 1: Complete the Git Tutorial
-- [ ] Task 2: Add Screenshots to 'README.md'
+- [X] Task 2: Add Screenshots to 'README.md'
 - [ ] Task 3: Modify '.html' File
 - [ ] Task 4: Merge latest changes
 - [ ] Task 5: Review pull requests
