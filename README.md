@@ -31,8 +31,8 @@ git push origin YOUR_BRANCH
 - [X] Task 1: Complete the Git Tutorial
 - [X] Task 2: Add Screenshots to 'README.md'
 - [x] Task 3: Modify '.html' File
-- [ ] Task 4: Merge latest changes
-- [ ] Task 5: Review pull requests
+- [X] Task 4: Merge latest changes
+- [X] Task 5: Review pull requests
 
 
 
