@@ -4,7 +4,7 @@ This repository is a requirement to complete CSC 510 Homework 2 in the Spring 25
 ![Static Badge](https://img.shields.io/badge/Language-Python-Green)
 ![Static Badge](https://img.shields.io/badge/Licencse-Apache2.0-blue)
 ![Static Badge](https://img.shields.io/badge/Platform-Linux-red)
-![Static Badge](https://img.sheilds.io/badge/Language-HTML-Orange)
+![Static Badge](https://img.shields.io/badge/Language-HTML-orange)
 
 ![Project Screenshot](https://github.com/S25-CSC510-Group10/Repository2/screenshot.png)
 
