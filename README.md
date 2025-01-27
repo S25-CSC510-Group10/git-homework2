@@ -42,5 +42,3 @@ git push origin YOUR_BRANCH
 
 ![Project Screenshot](https://github.com/S25-CSC510-Group10/git-homework2/blob/rcmcphee/img/McPheeGitTutorial1.png)
 ![Project Screenshot](https://github.com/S25-CSC510-Group10/git-homework2/blob/rcmcphee/img/McPheeGitTutorial2.png)
-
-![Project Screenshot](https://github.com/S25-CSC510-Group10/Repository2/screenshot.png)
