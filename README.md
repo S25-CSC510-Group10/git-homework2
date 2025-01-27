@@ -6,6 +6,8 @@ This repository is a requirement to complete CSC 510 Homework 2 in the Spring 25
 ![Static Badge](https://img.shields.io/badge/Licencse-Apache2.0-blue)
 ![Static Badge](https://img.shields.io/badge/Platform-Linux-red)
 
+# Ryan McPhee - Git Tutorial Screenshots
+
 ![Project Screenshot](https://github.com/S25-CSC510-Group10/git-homework2/blob/main/img/McPheeGitTutorial1.png)
 
 ![Project Screenshot](https://github.com/S25-CSC510-Group10/git-homework2/blob/main/img/McPheeGitTutorial2.png)
