@@ -32,8 +32,15 @@ git push origin YOUR_BRANCH
 
 # Image
 
+## Hank Lenham (hplenham) - Git Tutorial Screenshots
+
 ![Screenshot 2025-01-26 223143](https://github.com/user-attachments/assets/9676b52d-a610-4f33-9224-e864aa970a4e)
 ![Screenshot 2025-01-26 223153](https://github.com/user-attachments/assets/3a7fe5f5-2f95-4b29-9129-db105974a3f2)
 
 
+## Ryan McPhee (rcmcphee) - Git Tutorial Screenshots
 
+![Project Screenshot](https://github.com/S25-CSC510-Group10/git-homework2/blob/rcmcphee/img/McPheeGitTutorial1.png)
+![Project Screenshot](https://github.com/S25-CSC510-Group10/git-homework2/blob/rcmcphee/img/McPheeGitTutorial2.png)
+
+![Project Screenshot](https://github.com/S25-CSC510-Group10/Repository2/screenshot.png)
