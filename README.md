@@ -30,7 +30,18 @@ git push origin YOUR_BRANCH
 - [X] Task 4: Merge latest changes
 - [X] Task 5: Review pull requests
 
+# Image
+
+
+### Hank Lenham (hplenham)
 ![Screenshot 2025-01-26 223143](https://github.com/user-attachments/assets/9676b52d-a610-4f33-9224-e864aa970a4e)
 ![Screenshot 2025-01-26 223153](https://github.com/user-attachments/assets/3a7fe5f5-2f95-4b29-9129-db105974a3f2)
+
+### Ryan McPhee (rcmcphee)
+
+### Lawrence Stephenson (lasteph2)
+![lasteph2_hw2_gittutorial_1](https://github.com/user-attachments/assets/e67522aa-932f-445e-b27f-71d9b3821057)
+![lasteph2_hw2_gittutorial_2](https://github.com/user-attachments/assets/179ca24e-a16e-45c0-a582-e66717825bef)
+
 
 
